@@ -1,4 +1,4 @@
-# 💾 Modelagem e Projetos de Banco de Dados
+# Modelagem e Projetos de Banco de Dados
 
 Repositório dedicado às atividades desenvolvidas durante a disciplina de **Modelagem e Projetos de Banco de Dados**, cursada no **4º período de Engenharia de Software**.
 
@@ -6,9 +6,11 @@ Aqui registro exercícios, desafios e pequenos projetos desenvolvidos ao longo d
 
 A proposta deste repositório é documentar minha **evolução prática durante a disciplina**, acompanhando o desenvolvimento dos exercícios e projetos realizados ao longo do semestre.
 
+![Banner do repositório](assets/banner-readme.png)
+
 ---
 
-## 📚 Sobre o repositório
+## Sobre o repositório
 
 Durante a disciplina, diferentes conceitos são trabalhados por meio de atividades práticas e exercícios desenvolvidos em código.
 
