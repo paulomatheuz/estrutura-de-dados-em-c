@@ -1,6 +1,6 @@
-# Modelagem e Projetos de Banco de Dados
+# Algoritmo e Estrutura de Dados
 
-Repositório dedicado às atividades desenvolvidas durante a disciplina de **Modelagem e Projetos de Banco de Dados**, cursada no **4º período de Engenharia de Software**.
+Repositório dedicado às atividades desenvolvidas durante a disciplina de **Algoritmo e Estrutura de Dados**, cursada no **4º período de Engenharia de Software**.
 
 Aqui registro exercícios, desafios e pequenos projetos desenvolvidos ao longo da matéria, utilizando a **linguagem C** para colocar em prática os conceitos apresentados durante as aulas.
 
@@ -41,6 +41,6 @@ Este repositório representa parte da minha trajetória acadêmica e do processo
 
 <div align="center">
 
-### 🚀 Cada exercício é mais um passo na construção de uma base sólida em desenvolvimento de software.
+### Cada exercício é mais um passo na construção de uma base sólida em desenvolvimento de software.
 
 </div>
