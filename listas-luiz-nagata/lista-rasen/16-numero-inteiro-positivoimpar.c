@@ -15,8 +15,7 @@ int main(void) {
     scanf("%d", &n);
 
     for (i = n; i >= 1; i -= 2) {
-        printf("%d
-", i);
+        printf("%d\n", i);
     }
 
     return 0;
